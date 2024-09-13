@@ -28,7 +28,7 @@ cat <<EOF > /var/www/html/index.html
   <p><em>The server name is $hostname</em></p> 
 
   <img  src="https://cloudacademy.com/wp-content/uploads/2017/03/azure-apps.png" alt="$cloudname"> 
-  <h2> Web Applicaiton Architecture on $cloudname </h2>
+  <h2> Web Application Architecture on $cloudname </h2>
   <img  src="https://cloudhacks-public-html-file.s3.amazonaws.com/images/tf_azure.jpeg" alt="$cloudname Architecture"> 
 
   </body>
